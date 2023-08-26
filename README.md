@@ -142,11 +142,10 @@ I am using Visual Studio code since 2018 and this time I created lots of project
 - [Operator Mono](https://www.typography.com/fonts/operator/styles)
 
 ## 🧑‍💻 Contributors
-- [@Ali Hossain](https://github.com/shovoalways/)
+- [@Richard Mallick](https://github.com/richardmallick)
 
 
 ## 🥰 Follow me
-- [@Github](https://github.com/shovoalways/) 
-- [@Facebook](https://facebook.com/shovoalways/) 
-- [@Twitter](https://twitter.com/shovoalways/) 
-- [@Instagram](https://instagram.com/shovoalways/) 
+- [@Github](https://github.com/richardmallick) 
+- [@Facebook](https://www.facebook.com/richard.mallick.setu) 
+- [@Linkedin](https://www.linkedin.com/in/richard-mallick/) 
