@@ -77,6 +77,16 @@ I am using Visual Studio code since 2018 and this time I created lots of project
    "emmet.includeLanguages": {
       "javascript": "javascriptreact"
    }
+
+  // PHPCS
+  "phpcs.executablePath": "C:\\Users\\richard\\AppData\\Roaming\\Composer\\vendor\\bin\\phpcs.bat",
+  "phpcs.standard": "WpToffee", //WpToffee, Hypemill
+  "code-runner.clearPreviousOutput": true,
+  "phpcbf.enable": true,
+  "phpcbf.executablePath": "C:\\Users\\richard\\AppData\\Roaming\\Composer\\vendor\\bin\\phpcbf.bat",
+  "phpcbf.documentFormattingProvider": true,
+  "phpcbf.onsave": false,
+  "phpcbf.standard": null,
 }
 
 ```
@@ -95,6 +105,7 @@ I am using Visual Studio code since 2018 and this time I created lots of project
 - WordPress Snippets
 - Simple React Snippets
 - Tailwind CSS IntelliSense
+- phpcs
 
 
 ## 🎨 VS Code Themes
